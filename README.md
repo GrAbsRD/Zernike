@@ -1,4 +1,4 @@
-# Code & Data for the Paper about Zernike Radial Polynomials Published in IEEE Access
+# Code & Data for the Paper *Balanced Binary Tree Schemes for Computing Zernike Radial Polynomials* Published in IEEE Access
 
 The *.txt file includes the running time test data for computing the radial Zernike Polynomials for $n = 28$ and $n = 29$.
 

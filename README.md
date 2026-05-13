@@ -1,2 +1,10 @@
-# Zernike
-The *.txt file includes the running time test data for computing the radial Zernike Polynomials for n = 28 and n = 29.
+# Code & Data for the Paper about Zernike Radial Polynomials Published in IEEE Access
+
+The *.txt file includes the running time test data for computing the radial Zernike Polynomials for $n = 28$ and $n = 29$.
+
+- **Authors**: Hong-Yan Zhang, Yu Zhou, and Zhi-Qiang Feng
+- **Title**: *Balanced Binary Tree Schemes for Computing Zernike Radial Polynomials*
+- **Journal**: *IEEE ACCESS*
+- **Date**: Sept. 7, 2023
+- **Download the paper**: https://ieeexplore.ieee.org/document/10243014
+- **Abstract**: Zernike radial polynomials (ZRP) play a significant role in application areas such as optics design, imaging systems, and image processing systems. Currently, there are two kinds of numerical schemes for computing the ZRP automatically with computer programs: one is based on the definition in which the factorial operations may lead to the overflow problem and the high order derivatives are troublesome, and the other is based on recursion which is either unstable or with high computational complexity. In this paper, our emphasis is focused on exploring the balanced binary tree (BBT) schemes for computing the ZRP: firstly an elegant formulae for computation is established; secondly the recursive and iterative algorithms based-on BBT are proposed; thirdly the computational complexity of the algorithms are analyzed rigorously; finally the performance of BBT schemes by testing the running time is verified and validated. Theoretical analysis shows that the computational complexity of balanced binary tree recursive algorithm (BBRTA) and iterative algorithm are exponential and quadratic respectively, which coincides with the running time test very well. Experiments show that the time consumption is about 1~10 microseconds with different computation platforms for the balanced binary tree iterative algorithm (BBTIA), which is stable and efficient for real-time applications. In the sense of STEM education, the connection of the BBT and ZRP exhibits the beauty and applications of discrete mathematical structure behind the engineering problem, which is worthy of introducing to the college students, computer programmers and optics engineers.
